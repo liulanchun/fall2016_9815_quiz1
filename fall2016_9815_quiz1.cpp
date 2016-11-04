@@ -15,8 +15,8 @@ int main() {
 	int a = 10;
 	int b = 20;
 
-	auto c = a+b; // c will be int
-	cout << c;
+	auto d = a+b; // c will be int
+	cout << d;
 
 	return 0;
 }
